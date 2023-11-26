@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.flex-box {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.hidden {
+  overflow: hidden;
+}
